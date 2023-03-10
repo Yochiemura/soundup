@@ -1,0 +1,1 @@
+pwsh.exe -ExecutionPolicy Bypass -NoProfile -NoLogo -File "%~dp0func.ps1"
